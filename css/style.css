@@ -39,10 +39,30 @@ body {
   }
   .prima-colonna {
     background-color: rgb(0, 183, 255);
+    color: rgb(255, 255, 255);
   }
   .seconda-colonna {
     background-color: rgb(161, 214, 235);
   }
   .potrebbero {
     color: rgb(129, 129, 129);
+    margin-left: 1.5%;
+    margin-bottom: 100px;
+  }
+  .imagine1 {
+    background: url("../img/monitor.jpg");
+    height: 200px;
+    width: 300px;
+    margin-bottom: 1%;
+    margin-top: 2%;
+  }
+  .imagine2 {
+    background: url("../img/graph.jpg");
+    height: 200px;
+    width: 300px;
+  }
+  .lorem {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: 5%;
   }
