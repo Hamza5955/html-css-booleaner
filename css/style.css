@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    width: 100%;
+    width: 80%;
   }
   main {
     margin-left: 10px;
@@ -40,6 +40,7 @@ body {
   .prima-colonna {
     background-color: rgb(0, 183, 255);
     color: rgb(255, 255, 255);
+    margin-right: 20%;
   }
   .seconda-colonna {
     background-color: rgb(161, 214, 235);
@@ -67,4 +68,10 @@ body {
     color: rgb(255, 255, 255);
     font-size: 30px;
     margin-left: 5%;
+  }
+  .ipsum1 {
+    margin-right: 20%;
+  }
+  .tab {
+    width: 20%;
   }
